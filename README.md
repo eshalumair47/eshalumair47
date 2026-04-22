@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Eshal 👋
 
-<!--
-**eshalumair47/eshalumair47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ✨ Baking / CS Student
+- ✨ Currently Learning: [Artificial Intelligence in IT] 
+- ✨ Reach me:[eshalumair47@gmail.com]
+(mailto:eumair47@gmail.com) / [LinkedIn]
+(https://www.linkedin.com/in/
+eshal-umair-026b22364
+)
 
-Here are some ideas to get you started:
+## My Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+C Sharp . C+
+
+## My Favorite Tools
+
+VSCode . Visual Studio . GitHub . Excel . Word 
