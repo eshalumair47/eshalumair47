@@ -235,7 +235,7 @@ footer {
     padding: 20px;
   }
 
-  
+  /* stacks hero section vertically */
   .hero {
     flex-direction: column;
     text-align: center;
@@ -243,17 +243,17 @@ footer {
     gap: 20px;
   }
 
-  
+  /* smaller heading for phones */
   .hero-text h1 {
     font-size: 55px;
   }
 
-
+  /* smaller subtitle */
   .hero-text h2 {
     font-size: 32px;
   }
 
-  
+  /* paragraph readability */
   .description {
     font-size: 22px;
   }
@@ -278,12 +278,12 @@ footer {
     padding: 50px 20px;
   }
 
-  
+  /* cards centered */
   .project-grid {
     justify-content: center;
   }
 
-  
+  /* contact section width */
   .contact {
     width: 90%;
   }

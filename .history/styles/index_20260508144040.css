@@ -235,7 +235,7 @@ footer {
     padding: 20px;
   }
 
-  
+  /* stacks hero section vertically */
   .hero {
     flex-direction: column;
     text-align: center;

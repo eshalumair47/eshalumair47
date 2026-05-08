@@ -235,7 +235,7 @@ footer {
     padding: 20px;
   }
 
-  
+  /* stacks hero section vertically */
   .hero {
     flex-direction: column;
     text-align: center;
@@ -243,7 +243,7 @@ footer {
     gap: 20px;
   }
 
-  
+  /* smaller heading for phones */
   .hero-text h1 {
     font-size: 55px;
   }
