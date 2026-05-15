@@ -16,24 +16,25 @@
 
   <body>
     <header class="navbar">
-      <div class="github-box">
-        <!-- Fix GitHub button to match the rest of the design -->
-        Find me on GitHub!
-      </div>
-
-      <nav>
-        <a class="active" href="#">home</a>
-        <a href="#">about</a>
-        <a href="#">projects</a>
-        <a href="#">contact</a>
-      </nav>
+      <a href="https://github.com/eshalumair47" target="_blank" class="github-box">
+    Find me on GitHub!
+</a>
+   
+ <nav>
+    <ul>
+        <li><a class="active" href="#home">home</a></li>
+        <li><a href="#about">about</a></li>
+        <li><a href="#projects">projects</a></li>
+        <li><a href="#contact">contact</a></li>
+  </ul>
+</nav>
 
       <a href="documents/resume.pdf" download class="resume-btn">
         download resume
       </a>
     </header>
 
-    <section class="hero">
+    <section id="home" class="hero">
       <div class="hero-text">
         <p class="intro">hey,<br />i'm</p>
 
@@ -46,11 +47,9 @@
           something amazing together!
         </p>
 
-        <div class="buttons">
-          <button class="pink-btn">view my work →</button>
-          <!-- Remove this doesnt make sense -->
-          <button class="white-btn">contact me ✉</button>
-        </div>
+       <a href="#projects" class="btn">
+    view my work →
+</a>
       </div>
 
       <div class="drawing-box">
@@ -58,7 +57,7 @@
       </div>
     </section>
 
-    <section class="about">
+    <section id="about" class="about">
       <div class="about-image">💻</div>
 
       <div class="about-text">
@@ -68,12 +67,11 @@
           I'm a passionate web developer who loves turning ideas into real,
           interactive websites.
         </p>
-
-        <button class="white-btn">learn more about me →</button>
+        
       </div>
     </section>
 
-    <section class="projects">
+    <section id="projects" class="projects">
       <h2>My Projects</h2>
 
       <div class="project-grid">
@@ -118,17 +116,21 @@
       </div>
     </section>
 
-    <section class="contact">
-      <h2>let's connect! ♡</h2>
+   <section id="contact" class="contact">
 
-      <p>
-        Have a project in mind or just want to say hi? I'd love to hear from
-        you.
-      </p>
+    <h2>let's connect! ♡</h2>
 
-      <button class="pink-btn">get in touch ✉</button>
-      <!-- Center this -->
-    </section>
+    <p>
+        Have a project in mind or just want to say hi?
+        I’d love to hear from you.
+    </p>
+
+    <a href="mailto:eumair47@gmail.com" class="btn">
+        eumair47@gmail.com ✉
+    </a>
+
+</section>
+
 
     <footer>© 2026 Eshal Umair. All rights reserved.</footer>
   </body>

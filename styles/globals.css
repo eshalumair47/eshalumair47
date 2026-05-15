@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: your-font-here;
+}
+
+p {
+  font-size: 1.2rem;
+}
